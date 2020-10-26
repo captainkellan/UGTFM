@@ -94,5 +94,6 @@
 1. Calibre for managing eBooks
 2. VLC Media Player for playing media files
 3. Audirvana (PAID) or FooBar (FREE) for listening to music
+4. Playnite for managing video games
 
 ##### THIS WILL BE UPDATED CONSTANTLY!
