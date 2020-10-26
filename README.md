@@ -55,39 +55,39 @@
 # Recommended DDL sites based on content type
 >Remember, you can always search Raymond's Biology drives.
 ## Movies/TV/Anime
-[Search all video download sites](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0)
-[Snahp, a good site but has passwords on all downloads](https://snahp.it/)
+1. [Search all video download sites](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0)
+2. [Snahp, a good site but has passwords on all downloads](https://snahp.it/)
 
 ## Music/Podcasts/Radio
-[Search all audio download sites](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)
-[Some Telegram channels for audio downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)
-[High quality iTunes rips, gives you M4a files instead of more standard MP3 or FLAC](https://www.pluspremieres.to/)
+1. [Search all audio download sites](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)
+2. [Some Telegram channels for audio downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)
+3. [High quality iTunes rips, gives you M4a files instead of more standard MP3 or FLAC](https://www.pluspremieres.to/)
 
 ## Games
-[Search all game download sites](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)
-[Steam Underground, requires signing up for a free account](https://cs.rin.ru/)
-[OvaGames](http://www.ovagames.com/)
-[FitGirl Repacks, WILL TAKE SEVERAL HOURS TO INSTALL DUE TO FILES BEING HEAVILY COMPRESSED](https://fitgirl-repacks.site/)
+1. [Search all game download sites](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)
+2. [Steam Underground, requires signing up for a free account](https://cs.rin.ru/)
+3. [OvaGames](http://www.ovagames.com/)
+4. [FitGirl Repacks, WILL TAKE SEVERAL HOURS TO INSTALL DUE TO FILES BEING HEAVILY COMPRESSED](https://fitgirl-repacks.site/)
 
 ## Software
-[Search all software download sites](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)
+1. [Search all software download sites](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)
 
 ## Books/Comics/Manga
-[Search all reading sites](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)
-[Z-Library, download basically any book ever](https://z-lib.org/)
+1. [Search all reading sites](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)
+2. [Z-Library, download basically any book ever](https://z-lib.org/)
 ---
 # Helpful software, subreddits, etc.
-[AdBlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions)
-[Captcha Solver for Chrome](https://github.com/dessant/buster)
-[Piracy Subreddit](https://www.reddit.com/r/piracy)
-[Piracy Subreddit archive](https://github.com/nid666/PiracyArchive)
-[Android and iOS piracy guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android)
+1. [AdBlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions)
+2. [Captcha Solver for Chrome](https://github.com/dessant/buster)
+3. [Piracy Subreddit](https://www.reddit.com/r/piracy)
+4. [Piracy Subreddit archive](https://github.com/nid666/PiracyArchive)
+5. [Android and iOS piracy guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android)
 >Because of the secure nature of iOS, some things will be harder compared to Android.
 
-[Kodi Addon updates, follow this if you use Kodi](https://www.reddit.com/r/Addons4Kodi/)
+6. [Kodi Addon updates, follow this if you use Kodi](https://www.reddit.com/r/Addons4Kodi/)
 >Kodi addons break all the time and are replaced with new ones. Follow this feed to see the current streaming addons.
 
-[Free shared drives](https://telegra.ph/Sites-for-getting-free-team-drives-04-18)
+7. [Free shared drives](https://telegra.ph/Sites-for-getting-free-team-drives-04-18)
 >Get free unlimited Google Drive storage space. ONLY USE .edu DOMAINS, THESE ARE LEAST LIKELY TO BE DELETED. Don't store important files in these as they can and do get deleted.
 
 ### Stuff without links:
